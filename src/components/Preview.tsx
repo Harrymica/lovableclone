@@ -4,7 +4,6 @@ import {
   SandpackCodeEditor,
   SandpackPreview,
 } from "@codesandbox/sandpack-react";
-import React from "react";
 
 interface PreviewProps {
   code: string;
